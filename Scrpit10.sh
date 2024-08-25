@@ -8,3 +8,4 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
+hello im using the demoo purpose
